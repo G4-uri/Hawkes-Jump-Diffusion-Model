@@ -1,9 +1,9 @@
 # Hawkes-Jump-Diffusion-Model
-Work/Paper Under Review 
+
 # Endogenous Order Flow Dynamics and Jump Risk in Smart Order Routing
 ### A Hawkes Jump-Diffusion Study of BTC Microstructure, RWAs & TradFi Assets
 
-> **Status:** Manuscript submitted to peer-reviewed journal — under review  
+> **Status:** Version 1 
 > **Author:** Gauri Santhosh Nair  
 > **Affiliation:** Centre for Mathematical Needs, CHRIST (Deemed to be University), Bengaluru  
 > **Repository:** Private — codebase available on request
