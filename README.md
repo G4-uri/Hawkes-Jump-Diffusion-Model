@@ -146,23 +146,11 @@ python plot_convergence.py --assets SPY QQQ
 
 ---
 
-## Citation
-
-If you reference this work before publication, please cite as:
-
-```
-Nair, G. S. (2026). Endogenous Order Flow Dynamics and Jump Risk in Smart Order 
-Routing: A Hawkes Jump-Diffusion Study of BTC Microstructure, RWAs and TradFi Assets. 
-Manuscript submitted for publication. Centre for Mathematical Needs, CHRIST University.
-```
-
----
 
 ## Notes
 
-- Full methodology, derivations, and theoretical results are in the manuscript (available on request once published)
-- This repository contains the empirical implementation only — novel theoretical contributions are reserved for the paper
-- Parameter estimation code is included; the specific embedding architecture is described in the paper
+- Full methodology, derivations, and theoretical results are in the manuscript (available on request)
+- This repository contains the empirical implementation only — novel theoretical contributions are reserved privately
 
 ---
 
